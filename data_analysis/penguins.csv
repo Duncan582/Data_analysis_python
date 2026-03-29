@@ -1,0 +1,15 @@
+species,island,bill_length_mm,bill_depth_mm,fill_length_mm,body_mass_g,sex
+Adelie,Torgersen,39.1,18.7,181.0,3750.0,Male
+Adelie,Torgersen,39.5,17.4,186.0,3800.0,Female
+Adelie,Torgersen,NaN,NaN,NaN,NaN,NaN
+Adelie,Torgersen,36.7,19.3,193.0,3450.0,Female
+Biscos,Whatever,38.8,18.3,183.0,3670.0,Male
+Biscos,Whatever,34.6,18.5,180.0,3500,Female
+Apolis,Notknown,37.8,18.7,182.0,3700,Male
+Apolis,Notknown,36.6,18.0,177.0,3440,Female
+KidA,Holy,38.2,17.6,185.0,3760,Male
+KidA,Holy,34.5,18.4,178.0,3480,Female
+OKC,Bloody,38.9,18.5,188.0,3730.0,Male
+OKC,Bloody,34.8,17.8,178.0,3520,Female
+OKC,Bloody,35.0,17.7,174.0,3500,Female
+Moon,Heaven,37.7,18.8,177.0,3660,Male
